@@ -1,1 +1,1 @@
- A basic project management application to practice React concepts and tailwind 
+Project management web application made to practice fundamental React concept and experiment with Tailwind.
